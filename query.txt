@@ -1,0 +1,5 @@
+Query<word>
+Query<hello>
+Query<map>
+Query<running>
+Frequency<hello>
